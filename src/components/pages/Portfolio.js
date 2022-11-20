@@ -2,11 +2,13 @@ import React from 'react';
 
 export default function Portfolio() {
   return (
-    <div>
+    <grid>
+      <grid className="portfolio">
       <h1>Portfolio</h1>
+      </grid>
       <p>
         This will display my portfolio
       </p>
-    </div>
+    </grid>
   );
 }

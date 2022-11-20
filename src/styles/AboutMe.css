@@ -25,6 +25,15 @@
   font-size: 2rem;
 }
 
+.grid h3 {
+  margin: 0;
+  padding-top: 20px;
+  text-align: left;
+  font-size: 2rem;
+  font-weight: 900;
+font-style: italic;
+}
+
 .navbar {
   background: #8e27ce;
   height: 60px;
