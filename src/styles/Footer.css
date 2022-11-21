@@ -1,0 +1,9 @@
+.navfooter li {
+  display: inline-flex;
+  font-size: 20px;
+  font-family: 'Times New Roman', Times, serif;
+  padding: 30px;
+  line-height: 50%;
+  background-color: palevioletred;
+  width: 225px;
+}

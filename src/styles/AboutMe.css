@@ -25,6 +25,12 @@
   font-size: 2rem;
 }
 
+.img profile-card {
+  margin: 1;
+  outline-color: #ce4327;
+  line-height: 90px;
+}
+
 .grid h3 {
   margin: 0;
   padding-top: 20px;

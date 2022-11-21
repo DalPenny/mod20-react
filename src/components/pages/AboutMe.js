@@ -3,31 +3,27 @@ import '../../styles/AboutMe.css';
 import myimage from '../../assets/picture.jpg';
 export default function AboutMe() {
   return (
-    <grid>
-      <grid>
-        <article class="profile-card">
-          <img src={myimage} style={{ width: "10%" }} alt="myimage" ></img>
-          </article>
-
-     
-      <grid class="grid">
+    <div>
+      <div>
+        <hero>
+          <img class="profile-card" src={myimage} style={{width: "8%" }} alt="myimage" ></img>
+          </hero>
 
         <div class="my-1 bio-info flex-row-wrapper-lg-2">
-          <h3>About Me
-          </h3></div>
+          <h1>About Me</h1>
+          </div>
         <br></br>
-        <p> I am learning how to do coding
+        <p> This is a about me
         </p>
 
         <p>
-          more text hewea.kjbflahwbefljh.JKBLHBLJB;JBKJB;KJBLKJB LHB LJHB LJHB LJHB LJHB HL BLHJ BLJHBLJHBN LKJHBLHKJBLHJBN;JBN;JkhblkjhblhkjbklhjblhbB ;JB;JB;JBHKbwEFHBLWhbfhQB  re
+          more text here  
         </p>
         <p>
-          this is an about me pA,cb fWLHJQBEH:QLDHBLhjwebfc;QAB;dBUQDU'UBJ  qdw;BJ:AbdQB'age
+          this is an about me page 
         </p>
-        </grid>
-    </grid>
-    </grid >
+    </div>
+    </div >
   )
 }
 
