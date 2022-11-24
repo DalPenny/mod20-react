@@ -15,13 +15,11 @@ export default function Portfolio() {
     width: '10rem',
   };
 
-  // export default function Portfolio(props){
   return (
 
     <div>
       <h1>Portfolio</h1>
 
-      {/* <section class="row justify-content-center"> */}
       <div class="portfolio flex">
 
         <section className="display">
@@ -168,8 +166,6 @@ export default function Portfolio() {
           </div>
           <br></br>
         </section >  
-
-      {/* </section> */}
 
       </div >
     </div >
