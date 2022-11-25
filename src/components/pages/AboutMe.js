@@ -5,25 +5,35 @@ export default function AboutMe() {
   return (
     <div>
       <div>
-        <hero>
-          <img class="profile-card" src={myimage} style={{width: "8%" }} alt="myimage" ></img>
-          </hero>
+        <img className="img-card"
+          src={myimage}
+          alt="myimage" ></img>
 
-        <div class="my-1 bio-info flex-row-wrapper-lg-2">
-          <h1>About Me</h1>
+        <section>
+          <div>
+            <h2 className='head-1'>About Me</h2>
           </div>
-        <br></br>
-        <p> This is a about me
-        </p>
+          <br></br>
+          <div className="text-1">
+            <p> I am a kind and empathetic person who is very efficent and quick in my work.
+              I always find ways to help others.
+            </p>
 
-        <p>
-          more text here  
-        </p>
-        <p>
-          this is an about me page 
-        </p>
-    </div>
+            <p>
+              With me learning to code I believe I can help more people around the world.
+            </p>
+            <p>
+              In my free time I like to listen to music, sing, play with my dog, and write poetry.
+            </p>
+          </div>
+          <br></br>
+          <br></br>
+          <br></br>
+          <br></br>
+        </section>
+      </div>
     </div >
+
   )
 }
 

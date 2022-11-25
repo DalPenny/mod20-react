@@ -1,49 +1,21 @@
-.header {
-  background: rgb(94, 8, 100);
-  height: 100px;
+.img-card {
+  margin-left: 20px;
+  margin-top: 20px;
+  justify-content: center;
+  width: 10%;
+  line-height: 7px;
 }
 
-.header h1 {
-  margin: 0;
-  padding-top: 20px;
-  text-align: left;
-  color: white;
-  font-size: 2rem;
+.head-1 {
+  font-size: 30px;
+  font-weight:600;
+  margin-left: 20px;
+  margin-top: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif
 }
 
-.img profile-card {
-  margin: 1;
-  outline-color: #ce4327;
-  line-height: 90px;
-}
-
-.grid h3 {
-  margin: 0;
-  padding-top: 20px;
-  text-align: left;
-  font-size: 2rem;
-  font-weight: 900;
-font-style: italic;
-}
-
-.navbar {
-  background: #8e27ce;
-  height: 60px;
-}
-
-.navbar a {
-  color: burlywood;
-  font-size: 1.3rem;
-  text-decoration: none;
-  margin: 5px;
-  line-height: 3;
-}
-
-.section {
-  background: cornflowerblue;
-  padding: 20px;
-}
-
-.section h2 {
-  text-align: center;
+.text-1 {
+  font-size: 18px;
+  margin-left: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif
 }

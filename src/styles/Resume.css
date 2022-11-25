@@ -1,0 +1,19 @@
+.resume-head {
+    text-align: center;
+    justify-content: center;
+    margin-top:25px;
+    margin-left: 50px;
+  }
+  
+  .resume-body {
+    margin-left: 100px;
+    text-align: left;
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+  }
+
+  .resume-h5 {
+    font-size: 20px;
+    font-weight:600;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+  }

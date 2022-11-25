@@ -20,9 +20,9 @@ export default function Portfolio() {
     <div>
       <h1>Portfolio</h1>
 
-      <div class="portfolio flex">
+      <div className="portfolio flex">
 
-        <section className="display">
+        <section>
           <div className="card" style={cardStyle}>
             <div className="projects-grid">
               <a href="https://dalpenny.github.io/Horiseon-Accessibility-Code-Refactor/"
