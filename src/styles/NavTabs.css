@@ -6,8 +6,8 @@
   .nav a {
     color: blue;
     font-size: 1rem;
-    font-family: fantasy, Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-weight: 500;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
     margin: 5px;
     line-height: 3;
   }

@@ -1,6 +1,6 @@
 import React from 'react';
 import '../../styles/Resume.css';
-
+import Resumepdf from '../../assets/document/Resume.pdf';
 
 export default function Resume() {
   return (
@@ -48,6 +48,9 @@ export default function Resume() {
           <br></br>
         </div>
         <br></br>
+        <div>
+        <p className='download'>Click <span ><a href={Resumepdf}>HERE</a></span> to download the PDF version.</p>
+        </div>
       </div>
     </section>
     </div>

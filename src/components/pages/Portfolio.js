@@ -8,6 +8,7 @@ import PRJ5 from '../../assets/images/ws1.jpg';
 import PRJ6 from '../../assets/images/weather.png';
 import PRJ7 from '../../assets/images/fetch.png';
 import PRJ8 from '../../assets/images/fetchpet.png';
+import GitIMG from '../../assets/images/github-logo.png';
 
 export default function Portfolio() {
   
@@ -15,10 +16,15 @@ export default function Portfolio() {
     width: '10rem',
   };
 
+  const gitStyle = {
+    width: '2rem',
+  };
+
   return (
 
     <div>
       <h1>Portfolio</h1>
+      <h6>Click the picture to access the app!</h6>
 
       <div className="portfolio flex">
 
@@ -32,7 +38,12 @@ export default function Portfolio() {
                   src={PRJ1}
                   alt="a project 1" />
                 <div className="card-body">
-                  <h5>Code Refactor</h5>
+                  <a href='https://github.com/DalPenny/Horiseon-Accessibility-Code-Refactor'>Code Refactor
+                  <img
+                  className="card-img-top"
+                  src={GitIMG} style={gitStyle}
+                  alt="a project 8" />
+                  </a>
                 </div>
               </a>
             </div>
@@ -51,7 +62,13 @@ export default function Portfolio() {
                   src={PRJ2}
                   alt="a project 2" />
                 <div className="card-body">
-                  <h5>Professional portfolio in HTML and CSS</h5>
+                <a href='https://github.com/DalPenny/professional-portfolio'>Professional portfolio in HTML and CSS
+                <img
+                  className="card-img-top"
+                  src={GitIMG} style={gitStyle}
+                  alt="a project 8" />
+                </a>
+                  
                 </div>
               </a>
             </div>
@@ -69,7 +86,12 @@ export default function Portfolio() {
                   src={PRJ3}
                   alt="a project 3" />
                 <div className="card-body">
-                  <h5>Password Generator</h5>
+                <a href='https://github.com/DalPenny/pwdgen'>Password Generator
+                <img
+                  className="card-img-top"
+                  src={GitIMG} style={gitStyle}
+                  alt="a project 8" />
+                </a>
                 </div>
               </a>
             </div>
@@ -87,7 +109,12 @@ export default function Portfolio() {
                   src={PRJ4}
                   alt="a project 4" />
                 <div className="card-body">
-                  <h5>Code Quiz</h5>
+                <a href='https://github.com/DalPenny/codequiz'>Code Quiz
+                <img
+                  className="card-img-top"
+                  src={GitIMG} style={gitStyle}
+                  alt="a project 8" />
+                </a>
                 </div>
               </a>
             </div>
@@ -105,7 +132,12 @@ export default function Portfolio() {
                   src={PRJ5}
                   alt="a project 5" />
                 <div className="card-body">
-                  <h5>Workday Scheduler</h5>
+                <a href='https://github.com/DalPenny/workdayscheduler'>Workday Scheduler
+                <img
+                  className="card-img-top"
+                  src={GitIMG} style={gitStyle}
+                  alt="a project 8" />
+                </a>
                 </div>
               </a>
             </div>
@@ -123,7 +155,12 @@ export default function Portfolio() {
                   src={PRJ6}
                   alt="a project 6" />
                 <div className="card-body">
-                  <h5>Weather Dashboard</h5>
+                <a href='https://github.com/DalPenny/weather'>Weather Dashboard
+                <img
+                  className="card-img-top"
+                  src={GitIMG} style={gitStyle}
+                  alt="a project 8" />
+                  </a>
                 </div>
               </a>
             </div>
@@ -141,7 +178,11 @@ export default function Portfolio() {
                   src={PRJ7}
                   alt="a project 7" />
                 <div className="card-body">
-                  <h5>Fetch! - Dog Parks</h5>
+                <a href='https://github.com/cooper2016/Fetch'>Fetch! - Dog Parks 
+                <img
+                  className="card-img-top"
+                  src={GitIMG} style={gitStyle}
+                  alt="a project 8" /></a>
                 </div>
               </a>
             </div>
@@ -159,7 +200,13 @@ export default function Portfolio() {
                   src={PRJ8}
                   alt="a project 8" />
                 <div className="card-body">
-                  <h5>Fetch-a-Pet - Find your new best friend!</h5>
+                
+                <a href='https://github.com/juicyjerrry/Project-2-Fetch-a-Pet'>Fetch-a-Pet - Find your new best friend!
+                <img
+                  className="card-img-top"
+                  src={GitIMG} style={gitStyle}
+                  alt="a project 8" />
+                </a>
                 </div>
               </a>
             </div>
