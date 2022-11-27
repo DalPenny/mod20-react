@@ -33,7 +33,7 @@
   npm test to run tests
   
   ## Screenshots
-    <img width="1440" alt="Screen Shot" src="src/assets/images/scrn-img1.png">
+    <img width="1440" alt="Screen Shot" src="[src/assets/images/scrn-img1.png](https://github.com/DalPenny/mod20-react/blob/17b357d0abfbbe2a6a04c5500c12a9a8044d125b/src/assets/images/scrn-img1.png)">
     
     <img width="1440" alt="Screen Shot" src="src/assets/images/scrn-img6.png">
     
