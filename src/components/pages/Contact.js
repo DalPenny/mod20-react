@@ -28,7 +28,14 @@ function Form() {
         } else setErrorMessage(errorMessage );
     };
 
-    const handleFormSubmit = (e) => {
+    const handleClickOutside = (e) => {
+    //    if (!errorMessage) {
+            // console.log("Enter your contact Info:", errorMessage);
+            setErrorMessage('Please fill out the form');
+    // }
+};
+
+ const handleFormSubmit = (e) => {
         // Preventing the default behavior of the form submit (which is to refresh the page)
         e.preventDefault();
 
@@ -50,7 +57,7 @@ function Form() {
             return;
         }
         if (!(Message)) {
-            setErrorMessage('please input a message');
+            setErrorMessage('please type your message');
             return;
         };
         alert(`Hello ${Name}`);
@@ -99,6 +106,7 @@ function Form() {
                 <br></br>
                 <button type="button" onClick={handleFormSubmit}>Submit</button>
             </form>
+        
             {errorMessage && (
                 <div>
                     <p className="error-text">{errorMessage}</p>

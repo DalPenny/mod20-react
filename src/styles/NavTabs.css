@@ -31,3 +31,7 @@
     font-size: xx-large;
     font-family:Verdana, Geneva, Tahoma, sans-serif
   }
+
+  .nav-item:hover {
+    opacity: .5;
+  }

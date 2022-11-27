@@ -34,4 +34,7 @@
   width: 10%;
   background-color: rgb(105, 164, 189);
 }
+.form button:hover{
+  opacity: .8;
+}
 

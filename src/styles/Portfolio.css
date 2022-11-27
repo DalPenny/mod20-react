@@ -19,3 +19,10 @@
   background-color: rgba(196, 168, 192, 0.825);
   padding: 20px;
 }
+.card-img-top:hover{
+  opacity: .7;
+}
+
+.card-body:hover{
+  opacity: .5;
+}

@@ -40,7 +40,7 @@ export default function Portfolio() {
                 <div className="card-body">
                   <a href='https://github.com/DalPenny/Horiseon-Accessibility-Code-Refactor'>Code Refactor
                   <img
-                  className="card-img-top"
+                  className="logo-img-top"
                   src={GitIMG} style={gitStyle}
                   alt="a project 8" />
                   </a>
@@ -64,7 +64,7 @@ export default function Portfolio() {
                 <div className="card-body">
                 <a href='https://github.com/DalPenny/professional-portfolio'>Professional portfolio in HTML and CSS
                 <img
-                  className="card-img-top"
+                  className="logo-img-top"
                   src={GitIMG} style={gitStyle}
                   alt="a project 8" />
                 </a>
@@ -88,7 +88,7 @@ export default function Portfolio() {
                 <div className="card-body">
                 <a href='https://github.com/DalPenny/pwdgen'>Password Generator
                 <img
-                  className="card-img-top"
+                  className="logo-img-top"
                   src={GitIMG} style={gitStyle}
                   alt="a project 8" />
                 </a>
@@ -111,7 +111,7 @@ export default function Portfolio() {
                 <div className="card-body">
                 <a href='https://github.com/DalPenny/codequiz'>Code Quiz
                 <img
-                  className="card-img-top"
+                  className="logo-img-top"
                   src={GitIMG} style={gitStyle}
                   alt="a project 8" />
                 </a>
@@ -134,7 +134,7 @@ export default function Portfolio() {
                 <div className="card-body">
                 <a href='https://github.com/DalPenny/workdayscheduler'>Workday Scheduler
                 <img
-                  className="card-img-top"
+                  className="logo-img-top"
                   src={GitIMG} style={gitStyle}
                   alt="a project 8" />
                 </a>
@@ -157,7 +157,7 @@ export default function Portfolio() {
                 <div className="card-body">
                 <a href='https://github.com/DalPenny/weather'>Weather Dashboard
                 <img
-                  className="card-img-top"
+                  className="logo-img-top"
                   src={GitIMG} style={gitStyle}
                   alt="a project 8" />
                   </a>
@@ -180,7 +180,7 @@ export default function Portfolio() {
                 <div className="card-body">
                 <a href='https://github.com/cooper2016/Fetch'>Fetch! - Dog Parks 
                 <img
-                  className="card-img-top"
+                  className="logo-img-top"
                   src={GitIMG} style={gitStyle}
                   alt="a project 8" /></a>
                 </div>
