@@ -34,9 +34,13 @@
   
   ## Screenshots
     <img width="1440" alt="Screen Shot" src="src/assets/images/scrn-img1.png">
+    
     <img width="1440" alt="Screen Shot" src="src/assets/images/scrn-img6.png">
+    
     <img width="1440" alt="Screen Shot" src="src/assets/images/scrn-img8.png">
+    
     <img width="1440" alt="Screen Shot" src="src/assets/images/scrn-img9.png">
+    
     <img width="1440" alt="Screen Shot" src="src/assets/images/scrn-img10.png">
 
   ## Application
