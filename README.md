@@ -34,19 +34,14 @@
   
   ## Screenshots
   
-   <img width="1440" alt="Screen Shot" src="public/images/scrn-img1.png">
+   <img width="1440" alt="Screen Shot" src="public/images/scrn-img10.png">
    
-    <img width="1440" alt="Screen Shot" src="public/images/prj2screenshot.jpg">
-
-    <img width="1440" alt="Screen Shot" src="src/assets/images/scrn-img6.png">
+   <img width="1440" alt="Screen Shot" src="public/images/scrn-img6.png">
+   
+   <img width="1440" alt="Screen Shot" src="public/images/scrn-img9.png">
+   
+   <img width="1440" alt="Screen Shot" src="public/images/scrn-img8.png">
     
-    <img width="1440" alt="Screen Shot" src="src/assets/images/scrn-img8.png">
-    
-    <img width="1440" alt="Screen Shot" src="src/assets/images/scrn-img9.png">
-    
-    <img width="1440" alt="Screen Shot" src="src/assets/images/scrn-img10.png">
-    
-    <img width="1440" alt="Screen Shot" src="public/images/prj2screenshot.jpg">
 
   ## Application
   https://github.com/DalPenny/mod20-react
