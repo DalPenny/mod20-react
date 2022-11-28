@@ -6,11 +6,11 @@ import '../styles/NavTabs.css';
 
 function NavTabs({ currentPage, handlePageChange }) {
   return (
-    <div class="grid-container flex-row">
-      <div class="item1">
-        <p class="p">Charitha Alwis</p></div>
+    <div className="grid-container flex-row">
+      <div className="item1">
+        <p className="p">Charitha Alwis</p></div>
       <nav>
-        <div class="item1">
+        <div className="item1">
           <ul className="nav nav-tabs">
             <li className="nav-item">
               <a

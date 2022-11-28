@@ -17,8 +17,8 @@ function Footer() {
 
 
   return (
-    <footer class="footer grid-container">
-       <div class="flex-row navfooter">
+    <footer className="footer grid-container">
+       <div className="flex-row navfooter">
         <li>Contact Me</li>
           <li> <a className="logo-img" href="mailto:sathruvani@gmail.com">
           <img
