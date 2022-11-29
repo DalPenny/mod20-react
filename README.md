@@ -44,7 +44,7 @@
     
 
   ## Application
-  https://github.com/DalPenny/mod20-react
+  https://agile-ridge-69073.herokuapp.com/
   
   ## Github
   Have questions about this project?  
