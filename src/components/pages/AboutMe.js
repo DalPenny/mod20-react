@@ -1,4 +1,4 @@
-import React from 'react';
+import React from 'react'; 
 import '../../styles/AboutMe.css';
 import myimage from '../../assets/images/charitha.jpg';
 export default function AboutMe() {
