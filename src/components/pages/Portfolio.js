@@ -25,7 +25,7 @@ export default function Portfolio() {
 
     <div>
       <h1>Portfolio</h1>
-      <h6>Click the picture to access the app!</h6>
+      <h6>Click the picture to access the app!</h6> 
 
       <div className="portfolio flex">
 
@@ -63,7 +63,7 @@ export default function Portfolio() {
                   src={PRJ2}
                   alt="a project 2" />
                 <div className="card-body">
-                <a href='https://github.com/DalPenny/professional-portfolio'>Professional portfolio in HTML and CSS
+                <a href='https://github.com/DalPenny/professional-portfolio'>Professional portfolio in HTML and CSS 
                 <img
                   className="logo-img-top"
                   src={GitIMG} style={gitStyle}
@@ -190,7 +190,7 @@ export default function Portfolio() {
           </div>
           <br></br>
         </section >
-
+ 
         <section id="portfolio" className="display">
           <div className="card" style={cardStyle}>
             <div className="projects-grid">
