@@ -8,6 +8,7 @@ import PRJ5 from '../../assets/images/ws1.jpg';
 import PRJ6 from '../../assets/images/weather.png';
 import PRJ7 from '../../assets/images/fetch.png';
 import PRJ8 from '../../assets/images/fetchpet.png';
+import PRJ9 from '../../assets/images/codemovie.png';
 import GitIMG from '../../assets/images/github-logo.png';
 
 export default function Portfolio() {
@@ -213,6 +214,31 @@ export default function Portfolio() {
           </div>
           <br></br>
         </section >  
+
+        <section id="portfolio" className="display">
+          <div className="card" style={cardStyle}>
+            <div className="projects-grid">
+              <a href="https://codemovie.herokuapp.com/"
+                className="project prj9">
+                <img
+                  className="card-img-top"
+                  src={PRJ9}
+                  alt="a project 9" />
+                <div className="card-body">
+                
+                <a href='https://github.com/AMore080/ecommerce'>CodeMovie! Search for your favorite movies!
+                <img
+                  className="card-img-top"
+                  src={GitIMG} style={gitStyle}
+                  alt="a project 8" />
+                </a>
+                </div>
+              </a>
+            </div>
+          </div>
+          <br></br>
+        </section >  
+
 
       </div >
     </div >

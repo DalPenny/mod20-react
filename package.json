@@ -1,6 +1,6 @@
 {
   "homepage": "https://dalpenny.github.io/mod20-react/",
-  "name": "00-practice-app",
+  "name": "mod20-react-app",
   "version": "0.1.0",
   "private": false,
   "dependencies": {
