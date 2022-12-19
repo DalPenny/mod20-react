@@ -24,7 +24,7 @@ export default function Portfolio() {
 
   return (
 
-    <div>
+    <div> 
       <h1>Portfolio</h1>
       <h6>Click the picture to access the app!</h6> 
 
