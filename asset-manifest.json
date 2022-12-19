@@ -1,7 +1,8 @@
 {
   "files": {
     "main.css": "/mod20-react/static/css/main.ec5933ff.css",
-    "main.js": "/mod20-react/static/js/main.4e4d35f6.js",
+    "main.js": "/mod20-react/static/js/main.7744cd72.js",
+    "static/media/codemovie.png": "/mod20-react/static/media/codemovie.a0effdc758b98103ddfe.png",
     "static/media/charitha.jpg": "/mod20-react/static/media/charitha.3f81fa74329f677e8388.jpg",
     "static/media/Resume.pdf": "/mod20-react/static/media/Resume.55bc4834466c7001ff5b.pdf",
     "static/media/fetchpet.png": "/mod20-react/static/media/fetchpet.64464e08229a0a829c19.png",
@@ -11,10 +12,10 @@
     "static/media/portfolio.png": "/mod20-react/static/media/portfolio.659faab8e85ef05c65fc.png",
     "index.html": "/mod20-react/index.html",
     "main.ec5933ff.css.map": "/mod20-react/static/css/main.ec5933ff.css.map",
-    "main.4e4d35f6.js.map": "/mod20-react/static/js/main.4e4d35f6.js.map"
+    "main.7744cd72.js.map": "/mod20-react/static/js/main.7744cd72.js.map"
   },
   "entrypoints": [
     "static/css/main.ec5933ff.css",
-    "static/js/main.4e4d35f6.js"
+    "static/js/main.7744cd72.js"
   ]
 }
